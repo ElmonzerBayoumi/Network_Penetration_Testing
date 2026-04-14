@@ -23,7 +23,7 @@ This project demonstrates practical skills in network penetration testing using 
 ##  Screenshots
 
 ### Nmap Scan
-![Nmap Scan](.nmap-scan.png)
+![Nmap Scan](./screenshots/nmap-scan.png)
 
 ### Exploitation Example
 ![Metasploit](./screenshots/metasploit.png)
