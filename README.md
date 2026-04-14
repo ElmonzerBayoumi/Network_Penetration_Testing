@@ -28,8 +28,6 @@ This project demonstrates practical skills in network penetration testing using 
 ### Exploitation Example
 ![Metasploit](./screenshots/metasploit.png)
 
-## 📄 Full Report
-[View Full Report](./report/penetration-testing-report.pdf)
 
 ## ⚠️ Disclaimer
 This project was conducted in a controlled lab environment for educational purposes only.
